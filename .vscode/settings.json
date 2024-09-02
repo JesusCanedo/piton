@@ -2,5 +2,7 @@
     "IDX.aI.enableInlineCompletion": true,
     "IDX.aI.enableCodebaseIndexing": true,
     "python.experiments.enabled": true,
-    "python.globalModuleInstallation": true
+    "python.globalModuleInstallation": true,
+    "editor.fontSize": 16,
+    "editor.cursorBlinking": "expand"
 }
